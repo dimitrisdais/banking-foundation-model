@@ -1,5 +1,8 @@
 # Banking foundation model
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dimitrisdais/banking-foundation-model/blob/master/banking_foundation_model.ipynb)
+
+
 What does it actually take to build a foundation model for banking behaviour?
 
 The idea is appealing. Banks have long histories of payments, card transactions, transfers and other customer activity. Instead of engineering a separate representation for every use case, we can pretrain a model across customer histories and then specialise that representation for different business questions.
